@@ -1,0 +1,28 @@
+h1, h2, h3, ul {
+  text-align: center;
+  color: red;
+  font-family: inherit;
+}
+img {
+  margin: auto;
+  image: center;
+}
+
+body {
+  text-align: center;
+  background-color: lightpink;
+}
+
+nav {
+  background-color: pink;
+}
+
+ul {
+  list-style-type: none;
+}
+a {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+    font-family: inherit;
+}
